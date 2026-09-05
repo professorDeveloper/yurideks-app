@@ -1,0 +1,184 @@
+[
+  {
+    "id": "labour-probation",
+    "topic": "Mehnat huquqi",
+    "title": "Sinov muddati ham to‘lanadigan ish vaqti",
+    "summary": "Sinov muddatida ishlagan kunlaringiz uchun haq to‘liq to‘lanishi shart. “Sinovdasiz” degan sabab bilan kam to‘lash qonunga zid.",
+    "steps": [
+      "Shartnomada sinov muddati va oylik miqdori yozilganini tekshiring.",
+      "Ishlagan kunlaringizni tabel yoki xabarlar bilan qayd eting.",
+      "To‘lanmasa, ish beruvchiga yozma talab yuboring va nusxasini saqlang."
+    ],
+    "source": "Mehnat kodeksi",
+    "article": "89-modda"
+  },
+  {
+    "id": "labour-final-pay",
+    "topic": "Mehnat huquqi",
+    "title": "Ishdan bo‘shaganda oxirgi hisob-kitob o‘sha kuni",
+    "summary": "Oxirgi hisob-kitob — ish haqi, foydalanilmagan ta’til kompensatsiyasi — ishdan bo‘shash kuni to‘lanishi kerak.",
+    "steps": [
+      "Buyruq nusxasi va hisob-kitob varaqasini so‘rang.",
+      "Foydalanilmagan ta’til kunlarini sanab chiqing.",
+      "To‘lov kechiksa, har bir kechikkan kun uchun qo‘shimcha talab qilishingiz mumkin."
+    ],
+    "source": "Mehnat kodeksi",
+    "article": "109-modda"
+  },
+  {
+    "id": "labour-vacation",
+    "topic": "Mehnat huquqi",
+    "title": "Yillik ta’til eng kami 15 ish kuni",
+    "summary": "Har bir xodim yiliga kamida 15 ish kuni haq to‘lanadigan ta’tilga chiqishi kerak. Ta’tildan “voz kechish” majburiy emas.",
+    "steps": [
+      "Ta’til grafigi bilan tanishing va imzolang.",
+      "Ta’til puli ta’til boshlanishidan oldin to‘lanishi shart.",
+      "Ta’til berilmasa, yozma ariza qoldiring va nusxasini oling."
+    ],
+    "source": "Mehnat kodeksi",
+    "article": "134-modda"
+  },
+  {
+    "id": "labour-night",
+    "topic": "Mehnat huquqi",
+    "title": "Tungi ish uchun qo‘shimcha haq",
+    "summary": "Soat 22:00 dan 06:00 gacha bo‘lgan ish tungi hisoblanadi va unga qo‘shimcha haq to‘lanadi.",
+    "steps": [
+      "Tungi soatlaringizni tabelda alohida qayd ettiring.",
+      "Qo‘shimcha foiz shartnomada ko‘rsatilganini tekshiring.",
+      "Hisob-kitobni oylik varaqasi bilan solishtiring."
+    ],
+    "source": "Mehnat kodeksi",
+    "article": "157-modda"
+  },
+  {
+    "id": "labour-maternity",
+    "topic": "Mehnat huquqi",
+    "title": "Homiladorlik va tug‘ish ta’tili",
+    "summary": "Homiladorlik va tug‘ish ta’tili davrida ish o‘rni va lavozimi saqlanadi. Bu davrda ishdan bo‘shatish taqiqlanadi.",
+    "steps": [
+      "Tibbiy ma’lumotnomani ish beruvchiga rasmiy topshiring.",
+      "Ariza nusxasini qabul qilingani haqidagi belgi bilan saqlang.",
+      "Ta’til nafaqasi muddatini kadrlar bo‘limidan aniqlang."
+    ],
+    "source": "Mehnat kodeksi",
+    "article": "233-modda"
+  },
+  {
+    "id": "rent-deposit",
+    "topic": "Ijara va mulk",
+    "title": "Garov puli qaytarilishi kerak",
+    "summary": "Ijara tugagach, mulkka zarar yetkazilmagan bo‘lsa, garov puli to‘liq qaytariladi. Uni “ushlab qolish” asossiz.",
+    "steps": [
+      "Ko‘chib kirganda va chiqqanda holatni suratga oling.",
+      "Topshirish dalolatnomasini ikki nusxada imzolang.",
+      "Qaytarilmasa, yozma talab yuboring va muddat belgilang."
+    ],
+    "source": "Fuqarolik kodeksi",
+    "article": "540-modda"
+  },
+  {
+    "id": "rent-notice",
+    "topic": "Ijara va mulk",
+    "title": "Ijarani muddatidan oldin bekor qilish",
+    "summary": "Ijaraga beruvchi sizni istalgan payt chiqarib yubora olmaydi — shartnomada ko‘rsatilgan muddat va ogohlantirish tartibi amal qiladi.",
+    "steps": [
+      "Shartnomadagi bekor qilish bandini o‘qing.",
+      "Ogohlantirish yozma bo‘lishi kerakligini talab qiling.",
+      "Kelishuvga erishilmasa, yozishmalarni saqlang."
+    ],
+    "source": "Fuqarolik kodeksi",
+    "article": "553-modda"
+  },
+  {
+    "id": "family-divorce",
+    "topic": "Oila huquqi",
+    "title": "Nikohni bekor qilish tartibi",
+    "summary": "Voyaga yetmagan farzand bo‘lmasa va ikkala tomon rozi bo‘lsa, nikoh FHDYo orqali bekor qilinadi.",
+    "steps": [
+      "Ikkala tomon arizasini FHDYoga topshiring.",
+      "Davlat bojini to‘lang va kvitansiyani saqlang.",
+      "Nizo bo‘lsa, ish sudga o‘tadi — hujjatlarni tayyorlang."
+    ],
+    "source": "Oila kodeksi",
+    "article": "40-modda"
+  },
+  {
+    "id": "family-alimony",
+    "topic": "Oila huquqi",
+    "title": "Aliment miqdori qanday belgilanadi",
+    "summary": "Bir farzandga daromadning to‘rtdan biri, ikkitasiga uchdan biri, uch va undan ko‘piga yarmi miqdorida undiriladi.",
+    "steps": [
+      "Daromad haqidagi ma’lumotnomani yig‘ing.",
+      "Kelishuv bo‘lsa, uni notarial tasdiqlang.",
+      "Kelishuv bo‘lmasa, sudga ariza bering."
+    ],
+    "source": "Oila kodeksi",
+    "article": "96-modda"
+  },
+  {
+    "id": "debt-demand",
+    "topic": "Shartnoma va qarz",
+    "title": "Qarzni qaytarishni talab qilish",
+    "summary": "Qarz muddati kelganda yozma talab yuborish — sudga borishdan oldingi eng kuchli qadam.",
+    "steps": [
+      "Qarz tilxati yoki o‘tkazma tarixini tayyorlang.",
+      "Yozma talabni qaytarish muddati bilan yuboring.",
+      "Javob bo‘lmasa, da’vo arizasi bilan sudga murojaat qiling."
+    ],
+    "source": "Fuqarolik kodeksi",
+    "article": "240-modda"
+  },
+  {
+    "id": "debt-limitation",
+    "topic": "Shartnoma va qarz",
+    "title": "Da’vo muddati — uch yil",
+    "summary": "Umumiy da’vo muddati uch yil. Muddat o‘tib ketsa, sud himoyasini olish qiyinlashadi.",
+    "steps": [
+      "Qarz muddati qachon tugaganini aniqlang.",
+      "Qisman to‘lov muddatni yangilashini yodda tuting.",
+      "Muddat tugashiga yaqin bo‘lsa, kechiktirmang."
+    ],
+    "source": "Fuqarolik kodeksi",
+    "article": "150-modda"
+  },
+  {
+    "id": "consumer-return",
+    "topic": "Iste’molchi huquqi",
+    "title": "Tovarni 14 kun ichida qaytarish",
+    "summary": "Sifatli, lekin sizga to‘g‘ri kelmagan nooziq-ovqat tovarini 14 kun ichida qaytarish yoki almashtirish mumkin.",
+    "steps": [
+      "Chek yoki to‘lov tasdig‘ini saqlang.",
+      "Tovar ishlatilmagan va yorlig‘i joyida bo‘lsin.",
+      "Rad etilsa, yozma ariza qoldiring."
+    ],
+    "source": "Iste’molchilar huquqlarini himoya qilish to‘g‘risidagi qonun",
+    "article": "14-modda"
+  },
+  {
+    "id": "consumer-defect",
+    "topic": "Iste’molchi huquqi",
+    "title": "Nuqsonli tovar uchun javobgarlik",
+    "summary": "Kafolat muddatida nuqson chiqsa, tekin ta’mirlash, almashtirish yoki pulni qaytarishni talab qilishingiz mumkin.",
+    "steps": [
+      "Nuqsonni suratga oling va sanani qayd eting.",
+      "Servis markazidan yozma xulosa oling.",
+      "Talabingizni sotuvchiga rasmiy topshiring."
+    ],
+    "source": "Iste’molchilar huquqlarini himoya qilish to‘g‘risidagi qonun",
+    "article": "18-modda"
+  },
+  {
+    "id": "inheritance-share",
+    "topic": "Meros",
+    "title": "Majburiy meros ulushi",
+    "summary": "Voyaga yetmagan yoki mehnatga layoqatsiz farzandlar vasiyatnomadan qat’i nazar majburiy ulushga ega.",
+    "steps": [
+      "Meros ochilgan kundan 6 oy ichida ariza bering.",
+      "Notariusga qarindoshlikni tasdiqlovchi hujjatlarni keltiring.",
+      "Nizo bo‘lsa, sud tartibida ulushni aniqlating."
+    ],
+    "source": "Fuqarolik kodeksi",
+    "article": "1141-modda"
+  }
+]
